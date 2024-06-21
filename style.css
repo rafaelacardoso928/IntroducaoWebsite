@@ -89,7 +89,21 @@ nav ul li a:hover {
     bottom: 0;
 }
 
+.tt {
+    align-items: center;
+    line-height: 1.2;
+}
 
-<h2><p><a href="https://github.com/rafaelacardoso928"> GitHub</a><br></p>   
-    <p><a href="https://www.instagram.com/cardoso.rafaela_/?hl=en"> Instagram </a></p></h2>
+.ini {
+    display: flex;
+    align-items: center;
+}
+
+.ini img {
+    margin-right: 12px;
+}
+
+.tt h1, .tt h5 {
+    margin: 0;
+}
     
